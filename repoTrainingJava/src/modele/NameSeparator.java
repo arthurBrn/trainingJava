@@ -1,10 +1,17 @@
+/*
+ * # Class : NameSeparator
+ * # Purpos : exercise on String - Take a name, split it in two and return it
+ * 
+ * # Left to do : Turn that class into a method which will take a String and return one
+ * */
 package modele;
 
 import java.io.IOException;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class TestStackOVF {
+public class NameSeparator {
+
 
 	public static void main(String[] args) throws IOException {
 		/* Scanner sc = new Scanner(System.in);
@@ -34,4 +41,5 @@ public class TestStackOVF {
 		System.out.println("First Name: "+Firstname);
 		System.out.println("Last Name: "+Lastname);
 	}
+	
 }

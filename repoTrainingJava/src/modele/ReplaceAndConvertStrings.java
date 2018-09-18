@@ -1,3 +1,11 @@
+/*
+ * # Class : ReplaceAndConvertStrings
+ * # Purpos : exercise on String - Take a String like 'abcd' return a number like '0123'
+ * # Return a double number through the var named 'finalC'
+ * 
+ *  # Left to do : Turn the class into a method which will take a String and return a double
+ * 
+ * */
 package modele;
 
 public class ReplaceAndConvertStrings {

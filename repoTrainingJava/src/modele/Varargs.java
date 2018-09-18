@@ -1,9 +1,12 @@
 package modele;
 
+import java.util.Scanner;
+
 public class Varargs {
 
 
 	public static void showMsg(String... words) {
+		Scanner st=new Scanner(System.in);
 		System.out.println("vide ou non : ");
 
 		String tab[]= {"","","","",""};

@@ -1,3 +1,16 @@
+/*
+ * # Class : Take a String and verify wether or not the String is conform :
+ * # Purpos : exercise on String - 
+ * 	--> Verify is the String is empty or not 
+ * 		--> Then separate the String in three part
+ * 			--> The program check if the first part contains only letter maj/min and numbers
+ * 			--> The program check if the second part contains only letter maj/min and numbers 
+ * 			--> The program check if the third part contains only letter maj/min
+ * # Return the boolean 'tot' 
+ * 
+ * # Left to do : Transform the program into a boolean method
+ * */
+
 package modele;
 
 
@@ -6,8 +19,6 @@ public class EmailVerifyer {
 	public static void main(String[] args) {
 		String email="ss.i.?n@tgrefd";
 		boolean tot=false;
-
-
 		/*
 		 * Here we verify wether or not the String 'email' is empty or null, if one of this assesments are true, we set tot to false and stop the process
 		 * */

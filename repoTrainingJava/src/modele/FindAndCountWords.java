@@ -1,3 +1,12 @@
+/*
+ * # Class : FinAndCountWords
+ * # Purpos : exercise on String - Take a String, go through it and make a count of 
+ * 		--> The positive words "good" and "awesome"
+ * 		--> The negative words "bad" and "terrible"
+ * # Return a String of the form :  "5P2N" with 'P' standing for Positiv and 'N' for Negatif
+ * 
+ * # Left to do : Turn that class into a method which will take a String in parameter
+ * */
 package modele;
 
 import java.util.regex.Matcher;

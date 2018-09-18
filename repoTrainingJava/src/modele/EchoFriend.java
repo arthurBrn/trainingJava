@@ -1,6 +1,7 @@
 /*
  * # Class : EchoFriend 
- * # Purpos : repeating the input with no end
+ * # Purpos : exercise on String - repeating the input with no end
+ * 
  * Frist class coded for several months, with no heavy back-ground in java programming so
  * */
 package modele;
